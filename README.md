@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepakkumar</h1>
-<h3 align="center">A passionate MERN Stack Developer from Tamil Nadu, India. </h3>
+<h3 align="center">A passionate MERN Stack Developer from Bihar, India. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumar2205&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumar2205" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumar2205&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumar09" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepakkumar2205" alt="deepakkumar2205" /></a> </p>
 
@@ -12,17 +12,17 @@
 
 - 💬 Ask me about **Html, CSS , React , Node , MongoDB , Express**
 
-- 📑 Resume  [click here](https://drive.google.com/file/d/1E7N752ramUQeU1xJGo_w_ZyI9ki9r1iV/view?usp=sharing)
+- 📑 Resume  [click here](https://drive.google.com/file/d/1s8EUzLYPwGCvV2klyt6sPNTqAOMYVo96/view?usp=sharing)
 
-- 📑 My Portfolio  [click here](https://deepak2205-portfolio.netlify.app)
+- 📑 My Portfolio  [click here](https://deep-portfolio83.netlify.app)
 
-- 📫 How to reach me **dk44861@gmail.com**
+- 📫 How to reach me **deepakkumarkh90@gmail.com**
 
 - ⚡ Hobbys **Playing Typing game, Traveling, Watching/Reading science facts...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/deepakkumar-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-kumar-87632b139/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/deepakkumar-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/deepak-kumar-831314226/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
