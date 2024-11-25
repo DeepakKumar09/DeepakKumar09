@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-I'm Priya, a dedicated and tech-savvy final-year B.Tech student specializing in Software Technology at Centurion University of Technology and Management. 
+I'm Deepak, a dedicated and tech-savvy final-year B.Tech student specializing in Software Technology at Centurion University of Technology and Management. 
 With a strong foundation in programming languages like Python, Java, JavaScript, and HTML/CSS, along with hands-on experience in frameworks such as React.js, Spring Boot, and MySQL.
 I am passionate about building efficient, user-friendly applications. My previous role as a web developer at Prodigy Infotech allowed me to apply and deepen my technical knowledge in a real-world setting, further fueling my commitment to the field.
 
