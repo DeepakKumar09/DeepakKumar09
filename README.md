@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepakkumar</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bihar, India. </h3>
+<h3 align="center">A passionate Software Developer from Bihar, India. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakkumar2205&label=Profile%20views&color=0e75b6&style=flat" alt="deepakkumar09" /> </p>
 
@@ -8,9 +8,9 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:640/1*ZSVmWGcc1weENb0ShawWxw.gif" />
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Software Development**
 
-- 💬 Ask me about **Html, CSS , React , Node , MongoDB , Express**
+- 💬 Ask me about **Html, CSS , React , Node , MongoDB , Express, SpringFramework**
 
 - 📑 Resume  [click here](https://drive.google.com/file/d/1s8EUzLYPwGCvV2klyt6sPNTqAOMYVo96/view?usp=sharing)
 
